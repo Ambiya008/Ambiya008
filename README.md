@@ -3,7 +3,7 @@
 <h3 align="center">I'm Ambiya, a passionate developer with interests in various technologies.</h3>
 <img src="https://github.com/Ambiya008/Ambiya008/blob/main/github%20banner.jpg" alt="logo" style="max-width:100%; height:auto;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambiya008&label=Profile%20views&color=0e75b6&style=flat" alt="ambiya008" /> </p>
+
 
 - 🔭 I’m currently working on **C++**
 
